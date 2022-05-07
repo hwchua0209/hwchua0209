@@ -1,6 +1,5 @@
 - 👋 Hi, I’m HongWei
 - 👀 I’m interested in Data Science/Machine Learning/AI/Robotics
-- :school: I'm enrolled in NUS Singapore Master of Science in Mechanical Engineering this fall
 
 
 
