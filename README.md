@@ -1,6 +1,10 @@
-- 👋 Hi, I’m HongWei
-- 👀 I’m interested in Data Science/Machine Learning/AI/Robotics
+# 👋 Hi There
+I’m HongWei, a machine learning engineer currently working in the Insurance industry!
 
+I'm interested in data science, machine learning, and AI!
+
+# My Skills
+[![My Skills](https://skills.thijs.gg/icons?i=py,git,vim,docker,postgres&theme=dark)](https://skills.thijs.gg)
 
 
 <!---
