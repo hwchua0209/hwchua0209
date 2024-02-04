@@ -1,11 +1,11 @@
-# 👋 Hi There
-I’m HongWei, a machine learning engineer currently working in the Insurance industry!
+# 👋 Hi I’m HongWei, 
+A machine learning engineer currently working in the Insurance industry!
 
 I'm interested in data science, machine learning, and AI!
 
-# My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=py,git,vim,docker,postgres&theme=dark)](https://skills.thijs.gg)
+# My Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=py,vim,anaconda,vscode,docker,git,postgres,aws,gcp,linux)](https://skillicons.dev)
 
 <!---
 hwchua0209/hwchua0209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
