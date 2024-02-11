@@ -1,9 +1,11 @@
-# 👋 Hi I’m HongWei, 
+# 👋 Hi I’m HongWei
 A machine learning engineer currently working in the Insurance industry!
 
 I'm interested in data science, machine learning, and AI!
 
-# My Tech Stack
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongweichua/)
+
+# My Tech Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=py,vim,anaconda,vscode,docker,git,postgres,aws,gcp,linux)](https://skillicons.dev)
 
