@@ -10,6 +10,7 @@ I'm interested in data science, machine learning, and AI!
 [![My Skills](https://skillicons.dev/icons?i=py,vim,anaconda,vscode,docker,git,postgres,aws,gcp,linux)](https://skillicons.dev)
 
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!---
