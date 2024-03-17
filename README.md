@@ -2,12 +2,7 @@
 A machine learning engineer currently working in the Insurance industry!
 
 I'm interested in data science, machine learning, and AI!
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
-
+s
 # My Tech Stacks
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,vim,anaconda,vscode,docker,git,postgres,aws,gcp,linux)](https://skillicons.dev) -->
