@@ -1,13 +1,16 @@
-# <img src="./assets/Hi.gif" width="30" height="30"/> &nbsp; Hi I’m HongWei
+# <img src="./assets/Hi.gif" width="30" height="30"/> &nbsp; Hi I’m HongWei ✨
 
-- 🛠 &nbsp; I'm currently working as Machine Learning Engineer.
+- :briefcase: &nbsp; I'm currently working as Machine Learning Engineer.
+- :robot: &nbsp; I'm interested in data science, machine learning, and AI!  
+- :computer: &nbsp; I enjoy coding and learning new tech!
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="15" height="15" /> &nbsp; I'm interested in data science, machine learning, and AI!  
-- 👨🏻‍💻 &nbsp; I enjoy coding and learning new tech!
+🔗 &nbsp; <b>Connect with me</b>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" height="25" /> &nbsp; My Tech Stacks
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongweichua/)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,vim,anaconda,vscode,docker,git,postgres,aws,gcp,linux)](https://skillicons.dev) -->
+<details>
+    <summary><b> 🛠️ &nbsp; My Tech Stacks </b></summary>
+    <br/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
@@ -30,11 +33,5 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-<!---
-hwchua0209/hwchua0209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40" height="35" /> &nbsp; Connect with Me
-
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongweichua/)
+</details>
